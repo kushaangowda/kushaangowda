@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE @ <strong>IIT Indore</strong></h3>
 <h3 align="center">MERN Stack Developer</h3>
 <h3 align="center">Interested In ML</h3>
-<hr />
+<br />
 <h2 align="center">I'm Availabe At</h2>
 <p align="center">
 	<code>
@@ -134,7 +134,7 @@
 </p>
 <p align="center">
 	<img
-		src="https://github-readme-streak-stats.herokuapp.com/?user=kushaangowda&theme=tokyonight&count_private=true"
+		src="https://github-readme-streak-stats.herokuapp.com/?user=kushaangowda&theme=tokyonight"
 		alt="kushaangowda"
 	/>
 </p>
