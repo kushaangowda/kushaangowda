@@ -3,7 +3,7 @@
 <p align="center">MERN Stack Developer</p>
 <p align="center">Interested In ML</p>
 <br />
-<h2 align="center">I'm Availabe At</h2>
+<h2 align="center">If You Want To Collaborate, I'm Availabe On</h2>
 <p align="center">
 	<code>
 		<a style="text-decoration: none" href="https://www.linkedin.com/in/kushaan-gowda-32b694196/" target="blank">
