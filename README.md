@@ -1,7 +1,7 @@
 <h2 align="center">👋Hello World, I am Kushaan Gowda</h2>
 <p align="center">B.Tech CSE @ <strong>IIT Indore</strong></p>
 <p align="center">MERN Stack Developer</p>
-<p align="center">Interested In ML</p>
+<p align="center">ML Enthusiast</p>
 <br />
 <h2 align="center">If You Want To Collaborate, I'm Availabe On</h2>
 <p align="center">
