@@ -1,5 +1,4 @@
-<h2 align="center">👋Hello World, I am <strong><a href="https://kushaangowda.netlify.app/" target="_blank">Kushaan Gowda</a
-	&nbsp;</strong></h2>
+<h2 align="center">👋Hello World, I am <strong><a href="https://kushaangowda.netlify.app/" target="_blank">Kushaan Gowda</a></strong></h2>
 <h4 align="center">B.Tech CSE @ <strong>IIT Indore</strong></h4>
 <h4 align="center"><strong>MERN Stack</strong> Developer</h4>
 <h4 align="center"><strong>ML</strong> Enthusiast</h4>
