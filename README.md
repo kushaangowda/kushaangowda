@@ -1,17 +1,29 @@
-<h2 align="center">👋Hello World, I am Kushaan Gowda</h2>
-<p align="center">B.Tech CSE @ <strong>IIT Indore</strong></p>
-<p align="center">MERN Stack Developer</p>
-<p align="center">ML Enthusiast</p>
+<h2 align="center">👋Hello World, I am <a href="https://kushaangowda.netlify.app/" style="color:#6315c6;font-weight:bold;text-decoration:underline;" target="_blank">Kushaan Gowda</a></h2>
+<h4 align="center">B.Tech CSE @ <strong>IIT Indore</strong></h4>
+<h4 align="center"><span style="color:#f55;">MERN Stack</span> Developer</h4>
+<h4 align="center"><span style="color:#f55;">ML</span> Enthusiast</h4>
 <br />
 <h2 align="center">If You Want To Collaborate, I'm Availabe On</h2>
 <p align="center">
 	<code>
-		<a style="text-decoration: none" href="https://www.linkedin.com/in/kushaan-gowda-32b694196/" target="blank">
+		<a style="text-decoration: none" href="https://www.linkedin.com/in/kushaan-gowda/" target="blank">
 			<img
 				src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
 				alt="kushaan-gowda-32b694196"
-				height="30"
+				height="40"
+				width="30"
+				style="margin-right:10px;"
+			/>
+		</a>
+	</code>
+	<code>
+		<a style="text-decoration: none" href="mailto:kushaangowda1209@gmail.com" target="blank">
+			<img
+				src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
+				alt="kushaangowda1209@gmail.com"
+				height="40"
 				width="40"
+				style="margin-right:10px;"
 			/>
 		</a>
 	</code>
@@ -20,7 +32,7 @@
 			<img
 				src="https://www.vectorlogo.zone/logos/yahoo/yahoo-icon.svg"
 				alt="kushaangowda@yahoo.com"
-				height="30"
+				height="40"
 				width="40"
 			/>
 		</a>
@@ -31,98 +43,118 @@
 <h2 align="center">I'm Familiar With</h2>
 <p align="center">
 	<code>
-		<a style="text-decoration: none" href="https://www.w3.org/html/" target="_blank">
-			<img
-				src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"
-				alt="html5"
-				width="40"
-				height="40"
-			/>
+		<a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/c++.png" alt="C++" title="C++" width="40" height="40">
 		</a>
 	</code>
 	<code>
-		<a style="text-decoration: none" href="https://www.w3schools.com/css/" target="_blank">
-			<img
-				src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"
-				alt="css3"
-				width="40"
-				height="40"
-			/>
+		<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/w3_html5-icon.svg" alt="HTML5" title="HTML5" width="40" height="40">
 		</a>
 	</code>
 	<code>
-		<a style="text-decoration: none" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-			<img
-				src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"
-				alt="javascript"
-				width="40"
-				height="40"
-			/>
+		<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/netlifyapp_watercss-ar21.svg" alt="CSS3" title="CSS3" width="40" height="40">
 		</a>
 	</code>
 	<code>
-		<a style="text-decoration: none" href="https://getbootstrap.com" target="_blank">
-			<img
-				src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"
-				alt="bootstrap"
-				width="40"
-				height="40"
-			/>
+		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/javascript-icon.svg" alt="Javascript" title="Javascript" width="40" height="40">
 		</a>
 	</code>
 	<code>
-		<a style="text-decoration: none" href="https://reactjs.org/" target="_blank">
-			<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" />
+		<a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/getbootstrap-icon.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40">
 		</a>
 	</code>
 	<code>
-		<a style="text-decoration: none" href="https://nodejs.org" target="_blank">
-			<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" />
+		<a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/reactjs-icon.svg" alt="ReactJS" title="ReactJS" width="40" height="40">
 		</a>
 	</code>
 	<code>
-		<a style="text-decoration: none" href="https://expressjs.com" target="_blank">
-			<img
-				src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
-				alt="express"
-				width="40"
-				height="40"
-			/>
+		<a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/nodejs-icon.svg" alt="NodeJS" title="NodeJS" width="40" height="40">
 		</a>
 	</code>
 	<code>
-		<a style="text-decoration: none" href="https://heroku.com" target="_blank">
-			<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
+		<a href="https://expressjs.com" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/expressjs-icon.svg" alt="ExpressJS" title="ExpressJS" width="40" height="40">
 		</a>
 	</code>
 	<code>
-		<a style="text-decoration: none" href="https://www.mysql.com/" target="_blank">
-			<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" />
+		<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/mysql-icon.svg" alt="MySQL" title="MySQL" width="40" height="40">
 		</a>
 	</code>
 	<code>
-		<a style="text-decoration: none" href="https://www.mongodb.com/" target="_blank">
-			<img
-				src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
-				alt="mongodb"
-				width="40"
-				height="40"
-			/>
+		<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/mongodb-icon.svg" alt="MongoDB" title="MongoDB" width="40" height="40">
 		</a>
 	</code>
 	<code>
-		<a style="text-decoration: none" href="https://www.python.org/" target="_blank">
-			<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" />
+		<a href="https://reactnative.dev/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/react-native-1.svg" alt="React Native" title="React Native" width="40" height="40">
 		</a>
 	</code>
 	<code>
-		<a style="text-decoration: none" href="https://jupyter.org/" target="_blank">
-			<img
-				src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"
-				alt="Jupyter"
-				width="40"
-				height="40"
-			/>
+		<a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/docker.svg" alt="Docker" title="Docker" width="40" height="40">
+		</a>
+	</code>
+	<code>
+		<a href="https://kubernetes.io/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="40" height="40">
+		</a>
+	</code>
+	<code>
+		<a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/git.svg" alt="Git" title="Git" width="40" height="40">
+		</a>
+	</code>
+	<code>
+		<a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/python-icon.svg" alt="Python" title="Python" width="40" height="40">
+		</a>
+	</code>
+	<code>
+		<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/flask.svg" alt="Flask" title="Flask" width="40" height="40">
+		</a>
+	</code>
+	<code>
+		<a href="https://jupyter.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/jupyter-icon.svg" alt="Jupyter Notebook" title="Jupyter Notebook" width="40" height="40">
+		</a>
+	</code>
+	<code>
+		<a href="https://tensorflow.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/tensorflow-icon.svg" alt="Tensorflow" title="Tensorflow" width="40" height="40">
+		</a>
+	</code>
+	<code>
+		<a href="https://keras.io/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/keras.png" alt="Keras" title="Keras" width="40" height="40">
+		</a>
+	</code>
+	<code>
+		<a href="https://numpy.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/numpy.png" alt="Numpy" title="Numpy" width="40" height="40">
+		</a>
+	</code>
+	<code>
+		<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/pandas.svg" alt="Pandas" title="Pandas" width="40" height="40">
+		</a>
+	</code>
+	<code>
+		<a href="https://matplotlib.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/matplotlib-icon.svg" alt="Matplotlib" title="Matplotlib" width="40" height="40">
+		</a>
+	</code>
+	<code>
+		<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+			<img src="./images/scikit.png" alt="Scikit-learn" title="Scikit-learn" width="40" height="40">
 		</a>
 	</code>
 </p>
