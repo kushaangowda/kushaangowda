@@ -1,7 +1,7 @@
 <h2 align="center">👋Hello World, I am <strong><a href="https://kushaangowda.netlify.app/" target="_blank">Kushaan Gowda</a></strong></h2>
-<h4 align="center">B.Tech CSE @ <strong>IIT Indore</strong></h4>
-<h4 align="center"><strong>MERN Stack</strong> Developer</h4>
-<h4 align="center"><strong>ML</strong> Enthusiast</h4>
+<p align="center">B.Tech CSE @ <strong>IIT Indore</strong></p>
+<p align="center"><strong>MERN Stack</strong> Developer</p>
+<p align="center"><strong>ML</strong> Enthusiast</p>
 <br />
 <h2 align="center">If You Want To Collaborate, I'm Availabe On</h2>
 <p align="center">
