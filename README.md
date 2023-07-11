@@ -1,8 +1,11 @@
-<img
-			src="./images/vidgif.gif"
-			alt="kushaan-gowda-32b694196"
-		/>
-
+<a href="https://kushaangowda.netlify.app/" target="_blank">
+	<img
+		src="./images/vidgif.gif"
+		alt="kushaan-gowda-32b694196"
+	/>
+</a>
+<p></p>
+<br />
 <!-- <h2 align="center">👋Hello World, I am <strong><a href="https://kushaangowda.netlify.app/" target="_blank">Kushaan Gowda</a></strong></h2> -->
 <p align="center">I'll keep it <strong>simple</strong></p>
 <p align="center">B.Tech CSE (2023) @ <strong>IIT Indore</strong></p>
@@ -31,14 +34,14 @@
 			width="40"
 		/>
 	</a>
-	&nbsp;&nbsp;&nbsp;
-	<a style="text-decoration: none" href="mailto:kushaangowda@yahoo.com" target="blank">
+	<!-- &nbsp;&nbsp;&nbsp; -->
+	<!-- <a style="text-decoration: none" href="mailto:kushaangowda@yahoo.com" target="blank">
 		<img
 			src="https://www.vectorlogo.zone/logos/yahoo/yahoo-icon.svg"
 			alt="kushaangowda@yahoo.com"
 			height="40"
 			width="40"
 		/>
-	</a>
+	</a> -->
 </p>
 <br />
