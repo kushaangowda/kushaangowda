@@ -1,4 +1,9 @@
-<h2 align="center">👋Hello World, I am <strong><a href="https://kushaangowda.netlify.app/" target="_blank">Kushaan Gowda</a></strong></h2>
+<img
+			src="./images/vidgif.gif"
+			alt="kushaan-gowda-32b694196"
+		/>
+
+<!-- <h2 align="center">👋Hello World, I am <strong><a href="https://kushaangowda.netlify.app/" target="_blank">Kushaan Gowda</a></strong></h2> -->
 <p align="center">I'll keep it <strong>simple</strong></p>
 <p align="center">B.Tech CSE (2023) @ <strong>IIT Indore</strong></p>
 <p align="center"><strong>ML</strong> Enthusiast</p>
@@ -37,4 +42,3 @@
 	</a>
 </p>
 <br />
-
