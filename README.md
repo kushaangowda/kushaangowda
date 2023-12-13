@@ -17,6 +17,11 @@
 	</a>
 </p>
 <p align="center">
+	Google Scholar: <a style="text-decoration: none" href="https://scholar.google.com/citations?user=MhqBfg4AAAAJ" target="blank">
+		https://scholar.google.com/citations?user=MhqBfg4AAAAJ
+	</a>
+</p>
+<p align="center">
 	Email: <a style="text-decoration: none" href="mailto:kushaangowda1209@gmail.com" target="blank">
 		kushaangowda1209@gmail.com
 	</a>
